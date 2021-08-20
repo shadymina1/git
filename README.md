@@ -3,8 +3,8 @@ git init
 git status (optional) 
 git add .
 git status (optional)
-it commit -m "Hyatt" -m "ASP.NET Core "
-it remote add origin  git@github.com:shadymina1/Hyatt.git           -=> ssh
+git commit -m "Hyatt" -m "ASP.NET Core "
+git remote add origin  git@github.com:shadymina1/Hyatt.git           -=> ssh
 git remote -v
 git push origin master
 
